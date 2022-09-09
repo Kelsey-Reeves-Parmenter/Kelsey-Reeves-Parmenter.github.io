@@ -7,18 +7,18 @@ p {
   color:azure;
 }
 .power-eye-blue  {
-  color:aquamarine
+  color: #70EEEB
 }
 html {
-  background-color: rgb(63, 68, 77)
+  background-color: #626972
 }
 img {
   margin-left: 400px;
 
 }
 
-#recordsofkelsey {
-  color: rgb(134, 0, 27);
+#records-of-kelsey {
+  color: rgb(5, 72, 172);
   font-family: 'Dancing Script', cursive;
   font-size: 90px;
 } 
