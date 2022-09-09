@@ -12,10 +12,19 @@ html {
 }
 img {
   margin-left: 400px;
+
 }
 
 #recordsofkelsey {
   color: rgb(134, 0, 27);
   font-family: 'Dancing Script', cursive;
-  font-size: 60px;
+  font-size: 90px;
 } 
+.subheading {
+  font-size: 60px;
+}
+#record-list {color: rgb(190, 1, 39);
+font-size: 25px;
+}
+
+#return {color: orange;}
