@@ -1,5 +1,7 @@
 
-
+body {
+  color: azure;
+}
 h1 {
   color: crimson;
 }
@@ -11,6 +13,10 @@ p {
 }
 html {
   background-color: #626972
+}
+
+h3 {
+  color: #AA7DCE;
 }
 img {
   margin-left: 400px;
